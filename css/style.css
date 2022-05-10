@@ -33,7 +33,7 @@ ul {
 
 .jumbotron-container {
     height: 100vh;
-    background: url('/images/15.jpg') no-repeat bottom right fixed;
+    background: url('images/15.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -104,7 +104,7 @@ thead {
 
 #contact {
     
-    background: url('/images/gym1.jpg') no-repeat bottom right fixed;
+    background: url('images/gym1.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
