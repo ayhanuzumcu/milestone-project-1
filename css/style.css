@@ -28,11 +28,6 @@ ul {
     text-align: right;
 }
 
-.menu {
-    margin-top: 2px;
-    float: left;
-}
-
 
 
 /* JUMBOTRON */
@@ -141,7 +136,14 @@ label {
 form > button {
     width: 100%;
     margin-top: 10px;
-    font-size: 20px !important;
+    font-size: 1.2rem !important;
+}
+
+form > button:hover {
+    color:#0d82ff !important;
+    background-color: rgb(255, 255, 255)  !important;
+    border-color:  #0d82ff !important;
+    transition: 0.4s;
 }
 
 h4 {
@@ -160,12 +162,23 @@ h4 {
 
 
 
-
-
 /* FOOTER */
 
 .footer-row {
     margin: 15px;
     text-align: center;
+}
+
+footer .btn:hover {
+    color: rgb(0, 153, 255);
+    transition: 0.7s;
+    background-color: rgb(4, 4, 4) !important;
+
+}
+
+footer .insta:hover {
+    color: rgb(138, 58, 185) !important;
+    transition: 0.7s;
+    background-color: rgb(4, 4, 4) !important;
 }
 
