@@ -1,7 +1,7 @@
 
 # THE PREMIER GYM 
 
-This is website for a gym to attract and retain members. This website was built for gym members and potential members, who want to know more about the gym and its classes and timetables.
+This is website for a gym to attract and retain members. This website was built for gym members and potential members, who want to know more about the gym and its classes, timetables and contact details.
 
 
 ## Demo
@@ -53,10 +53,7 @@ The dark grey color was used to design the page.
 
 
 ### Features
-This website was designed for one page only. You can find four sections that classes, gallery, timetable and contact. The site was build mobile friendly using Bootstrap features.
-
-### Features Left to Implement
-Some new classes and its timetables will be added in future.
+This website was designed for one page only. You can find four sections that classes, gallery, timetable and contact. The site was build for mobile friendly using Bootstrap features. Some new classes and its timetables will be added in the future.
 
 
 ### Testing
@@ -68,7 +65,7 @@ All social media links open in a new window using '"target="_blank"' and all of 
 
 This website was tested on different browsers and mobile devices to make sure everything is working correctly. On mobile devices, the page was looking responsive and all sections was shown in the middle.
 
-During testing, I have added a class to the top nav bar using "fixed-top" Bootstrap class to fixed the navbar on the top of the page.
+During testing, I have added a class to the top nav bar using "fixed-top" Bootstrap class to fixed the navbar on the top of the page. And also the menu items set to the right on mobile friendly pages.
 
 
 ### Deployment
@@ -79,7 +76,7 @@ To run locally, you can clone this repository.
 ## Credits
 
 ### Content
-All data and information in the page was found on Google by searching and converted and summarised to make it simple from different resources.
+All data and information in the class section was found on Google by searching and after reading all text then it was converted and summarised to make it simple from different resources.
 
 ### Media
 
