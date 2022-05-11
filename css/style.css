@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
-*{
+* {
     margin:0;
     padding:0;
     border:0;
 }
 
-body{
+body {
     font-family: 'Oswald', sans-serif;
     color: #3a3a3a;
 }
@@ -25,6 +25,12 @@ body{
 
 ul {
     font-size: large;
+    text-align: right;
+}
+
+.menu {
+    margin-top: 2px;
+    float: left;
 }
 
 
@@ -115,10 +121,12 @@ thead {
     margin-bottom:0px;
     background-color: rgba(0, 0, 0, 0.3);
     z-index: -1;  
+    opacity: 95%;
 }
 
-.form {
+form {
     z-index: 1 !important;
+    margin-top: 50px;
 }
 
 label {
@@ -135,6 +143,23 @@ form > button {
     margin-top: 10px;
     font-size: 20px !important;
 }
+
+h4 {
+    margin-top: 50px;
+    color: white;
+    font-size: 1.4rem;
+}
+
+#top-h {
+    margin-top: 55px;
+}
+
+#contact p {
+    color: white !important;
+}
+
+
+
 
 
 /* FOOTER */
