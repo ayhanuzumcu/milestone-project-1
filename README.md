@@ -15,9 +15,18 @@ As a potential gym customer I expect to see the classes of The Premier Gym.
 
 ![Classes](https://ayhanuzumcu.github.io/milestone-project-1/images/class.jpg "Gym Classes")
 
+I can see some showcase photos of people having fun exercising in the gym to motivate people to come.
+
+![Gallery](https://ayhanuzumcu.github.io/milestone-project-1/images/gallery.jpg "Gallery")
+
 And also I expect to see the class timetable.
 
 ![Timetable](https://ayhanuzumcu.github.io/milestone-project-1/images/timetable.jpg "Timetable")
+
+I can find some information for the gym's address, phone number, email address and a message form to ask a question.
+
+![Contact](https://ayhanuzumcu.github.io/milestone-project-1/images/contact.jpg "Contact")
+
 
 ### Strategy
 My aim for the website design was in the easiest way possible to access information while trying to make a website for user-friendly page.
@@ -65,7 +74,21 @@ All social media links open in a new window using '"target="_blank"' and all of 
 
 This website was tested on different browsers and mobile devices to make sure everything is working correctly. On mobile devices, the page was looking responsive and all sections was shown in the middle.
 
-During testing, I have added a class to the top nav bar using "fixed-top" Bootstrap class to fixed the navbar on the top of the page. And also the menu items set to the right on mobile friendly pages.
+HMTL and CSS codes were tested on W3C Validation Service and both tests were passed.
+
+You can find the links to the test results here:
+
+[HTML Test Result Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-1%2F)
+
+[CSS Test Result Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fayhanuzumcu.github.io%2Fmilestone-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+You can find the screenshoots here:
+
+[HTML Test Result](https://ayhanuzumcu.github.io/milestone-project-1/w3c-validation/HTML.jpg)
+
+[CSS Test Result](https://ayhanuzumcu.github.io/milestone-project-1/w3c-validation/CSS.jpg)
+
+During the self-testing, I have added a class to the top nav bar using "fixed-top" Bootstrap class to fixed the navbar on the top of the page. And also the menu items set to the right on mobile friendly pages.
 
 
 ### Deployment
